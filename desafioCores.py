@@ -1,1 +1,7 @@
 print('\033[1;31mOlá mundo\033[m')
+print('\033[3;32mOlá mundo\033[m')
+print('\033[1;33mOlá mundo\033[m')
+print('\033[1;34mOlá mundo\033[m')
+print('\033[1;35mOlá mundo\033[m')
+print('\033[36mOlá mundo')
+print('\033[37mOlá mundo')
